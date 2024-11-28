@@ -1,0 +1,16 @@
+{
+  "domain": "metservice_tides",
+  "version": "0.0.1",
+  "name": "Metservice Tides",
+  "codeowners": [
+    "@deishelon"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/metservice_tides",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
